@@ -1,2 +1,2 @@
 # linuxcomandos.github.io
-Esse site é um espelho do site: https://comandoslinux.tech.blog/
+Esse site é um espelho de: https://comandoslinux.tech.blog/
