@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<ShortName>Comandos Linux</ShortName>
+	<Description>Search Comandos Linux - Blog Oficial Do Canal do Telegram: @comandos_linux</Description>
+	<Contact>help@wordpress.com</Contact>
+	<Url type="application/atom+xml" template="https://comandoslinux.tech.blog/?s={searchTerms}&amp;feed=atom" />
+	<Url type="rss+xml" template="https://comandoslinux.tech.blog/?s={searchTerms}&amp;feed=rss2" />
+	<Url type="text/html" template="https://comandoslinux.tech.blog/?s={searchTerms}" method="GET" />
+	<Url type="application/opensearchdescription+xml" rel="self" template="https://comandoslinux.tech.blog/osd.xml" />
+	<LongName>Comandos Linux</LongName>
+	<Image height="16" width="16" type="image/vnd.microsoft.icon">https://comandoslinuxtech.files.wordpress.com/2020/01/cropped-console.jpg?w=16</Image>
+	<Image height="64" width="64" type="image/jpeg">https://comandoslinuxtech.files.wordpress.com/2020/01/cropped-console.jpg?w=64</Image>
+	<Query role="example" searchTerms="photography" />
+	<Tags>comando-split linux split baixe-parte-do-video wget baixe-sites-inteiros baixe-sites-completos usando-o-linux-para-copiar-um-site-inteiro use-o-linux-para-baixar-sites-inteiros sites-completos-com-wget</Tags>
+	<Developer>Automattic</Developer>
+	<SyndicationRight>open</SyndicationRight>
+	<AdultContent>false</AdultContent>
+	<Language>pt-BR</Language>
+	<OutputEncoding>UTF-8</OutputEncoding>
+	<InputEncoding>UTF-8</InputEncoding>
+	<moz:SearchForm>https://comandoslinux.tech.blog</moz:SearchForm>
+</OpenSearchDescription>
